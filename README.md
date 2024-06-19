@@ -18,9 +18,7 @@
 This project is a simple React application that uses React Router v6 for client-side routing. The app includes a basic authentication flow with `Login` and `HomePage` components. Navigation is managed using `BrowserRouter` from `react-router-dom`, and routing paths are defined to guide users through the application.
 
 ## Installation
-
-![1](https://github.com/aea2608/rn-assignment4-11014168/assets/169605724/0bf17d01-cbf3-4a50-91d2-a53e5cbda4b1)
-![2](https://github.com/aea2608/rn-assignment4-11014168/assets/169605724/cc69b957-cfb1-4560-a719-02a394d176a3)
-![3](https://github.com/aea2608/rn-assignment4-11014168/assets/169605724/1a6b20de-fb0c-45a4-a7c1-e14a4c412beb)
-
+![1](https://github.com/AddoKofi/rn-assignment4-11174541/assets/170241272/3db7582a-9163-4adb-938e-4aa6f148cb86)
+![2](https://github.com/AddoKofi/rn-assignment4-11174541/assets/170241272/48dcc0cf-9572-48fd-9cd7-8faf3ff92612)
+![3](https://github.com/AddoKofi/rn-assignment4-11174541/assets/170241272/ddb12b25-36aa-4aaa-83d9-4fa9aa91f8b6)
 
